@@ -18,8 +18,6 @@ export default function App(){
     return (
         <div className="app">
             <AppInfo/>
-            {/* <IAmTest name="Ilya" surname="Dercach" link="vk.com"/>
-            <IAmTest name="PropsTwo" surname="TwoProps" link="newlink.com"/> */}
             <div className="app-search-panel">
                 <SearchPanel/>
                 <AppFilter/>
